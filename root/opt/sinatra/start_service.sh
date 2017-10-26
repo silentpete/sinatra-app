@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-#TODO: create DEBUG optoin
+#TODO: create DEBUG option
 
 ruby ./sinatra.rb &
 
